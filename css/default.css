@@ -5,13 +5,12 @@ h1{
 }
 
 .kadai1{
-   float:left; 
+   float: left; 
    color:#ff0000;
 }
 
-}
 dt{
-  clear:left;
-  float:left;
+  clear: left;
+  float: left;
     color:#ff0000;
 }
