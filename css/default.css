@@ -22,4 +22,13 @@ color:#0000ff;
 .kadai2{
     float:left;
    .webkit-appearance:nine;
+   margin;5px
+}
+
+.kadai2-submit{
+background-color:#00ffff;
+}
+
+.kadai2-reset{
+background-color:#ffff00;
 }
