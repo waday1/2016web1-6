@@ -6,12 +6,15 @@ h1{
 
 .kadai1{
    float:left; 
+   color:#ff0000;
 }
 dd{
     float:left;
+    color:#ff0000;
 }
     
 }
 dt{
     float:left;
+    color:#ff0000;
 }
