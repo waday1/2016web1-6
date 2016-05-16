@@ -12,6 +12,6 @@ dt{
     color:#ff0000;
 }
 dd{
-
+    float: left;
     color:#0000ff;
 }
