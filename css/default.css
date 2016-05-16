@@ -60,8 +60,9 @@ th{
     width:50;
     text-align:center;
 }
-tb{
+td{
     border:2px solid lightcoral;
+    background-color:#7777ff;
     padding:5px;
     width:50;
     text-align:center;
