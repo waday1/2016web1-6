@@ -9,8 +9,12 @@ h1{
    color:#ff0000;
 }
 
-dt{
+dd{
+  float: left;
+    color:#ff0000;
+}
 
+dt{
   float: left;
     color:#ff0000;
 }
