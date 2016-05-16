@@ -22,7 +22,19 @@ color:#0000ff;
 .kadai2{
     float:left;
    .webkit-appearance:nine;
-   margin;5px
+   margin:5px;
+   width:100;
+   height:40;
+   padding:10;
+   border:none;
+   font-size:16px;
+}
+
+.kadai2:hover{
+    opacity:0.7;
+}
+.kadai2:active{
+    color:white;
 }
 
 .kadai2-submit{
