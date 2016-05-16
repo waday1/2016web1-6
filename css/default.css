@@ -46,10 +46,23 @@ background-color:#ffff00;
 }
 h3{
 clear:left;
-color:#0000ff;
+color:#00ff00;
 }
 #kadai3{
 border:2px solid lightcoral;
 border=collapse:collapse;
+}
 
+th{
+    border:2px solid lightcoral;
+    background-color:#111111;
+    padding:5px;
+    width:50;
+    text-align:center;
+}
+tb{
+    border:2px solid lightcoral;
+    padding:5px;
+    width:50;
+    text-align:center;
 }
